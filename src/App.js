@@ -1,4 +1,5 @@
 import {FiSearch} from 'react-icons/fi';
+import './style.css';
 
 function App() {
   return (
@@ -24,6 +25,8 @@ placeholder="Digite seu cep ..."
 
 <span>Rua Teste algum</span>
 <span>Complemento: Algum complento</span>
+<span>Vila Rosa</span>
+<span>Campo Grande - MS</span>
 </div>
   );
 }
